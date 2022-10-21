@@ -23,3 +23,4 @@ else
 end
 
 puts "#{ans}の勝ち"
+
